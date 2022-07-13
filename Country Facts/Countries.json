@@ -1,0 +1,74 @@
+{
+  "countries":[
+      {
+          "name": "Colombia",
+          "capital": "Bogotá D.C.",
+          "size": "1'141.748",
+          "population": "51'609.474",
+          "currency": "Colombian peso (COP)"
+      },
+      {
+          "name": "United States",
+          "capital": "Washington D.C",
+          "size": "9'147.593",
+          "population": "331'449.281",
+          "currency": "U.S. dollar ($) (USD)"
+      },
+      {
+          "name": "Switzerland",
+          "capital": "Bern",
+          "size": "41.285",
+          "population": "8'570.146",
+          "currency": "Swiss franc (CHF)"
+      },
+      {
+          "name": "Chile",
+          "capital": "Santiago",
+          "size": "756.096",
+          "population": "17'574.003",
+          "currency": "Chilean peso (CLP)"
+      },
+      {
+          "name": "Brazil",
+          "capital": "Brasilia",
+          "size": "8'515.767",
+          "population": "214'047.375",
+          "currency": "Real (R$) (BRL)"
+      },
+      {
+          "name": "Mexico",
+          "capital": "Mexico City",
+          "size": "1'972.550",
+          "population": "126'014.024",
+          "currency": "Mexican peso (MXN)"
+      },
+      {
+          "name": "Japan",
+          "capital": "Tokyo",
+          "size": "377.975",
+          "population": "125'502.000",
+          "currency": "Japanese yen (¥)"
+      },
+      {
+          "name": "South Korea",
+          "capital": "Seoul",
+          "size": "100.363",
+          "population": "51'745.000",
+          "currency": "Korean Republic won (₩) (KRW)"
+      },
+      {
+          "name": "China",
+          "capital": "Beijing",
+          "size": "9'596.961",
+          "population": "1.412'600.000",
+          "currency": "Renminbi (元/¥)[h] (CNY)"
+      },
+      {
+          "name": "Russia",
+          "capital": "Moscow",
+          "size": "17'098.246",
+          "population": "145'478.097",
+          "currency": "Russian ruble (₽) (RUB)"
+      }
+  ]
+}
